@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">To do list project IML</string>
+    <string name="empty_string">There is no input</string>
+    <string name="empty_string2">There is nothing in the list</string>
+</resources>
